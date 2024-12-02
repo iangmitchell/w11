@@ -33,7 +33,7 @@ describe( "Deployment", ()=>{
             const _text = "Hello, work";
             const _amount = 100;
             const {token, owner, addr1} = await loadFixture(deployToken);
-		/* Test for setText
+		/* Test for setText */
         })
 
     })
